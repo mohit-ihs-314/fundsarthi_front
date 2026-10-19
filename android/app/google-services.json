@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "479196830158",
+    "project_id": "fundsarthi-2646e",
+    "storage_bucket": "fundsarthi-2646e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479196830158:android:16748516771d78dae3339f",
+        "android_client_info": {
+          "package_name": "com.fundsarthi.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEfP8jyRmjZaho_pqQv9VLzFTHqS9l850"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

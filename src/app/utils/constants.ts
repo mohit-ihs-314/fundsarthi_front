@@ -1,0 +1,22 @@
+// NCR + surrounding service area cities, shared across property listing,
+// property search and profile completion so the list stays consistent.
+export const NCR_CITIES = [
+  "Delhi",
+  "New Delhi",
+  "Gurgaon",
+  "Noida",
+  "Greater Noida",
+  "Ghaziabad",
+  "Faridabad",
+  "Sohna",
+  "Manesar",
+  "Farukhnagar",
+  "Bahadurgarh",
+  "Sonipat",
+  "Palwal",
+  "Rewari",
+  "Bhiwadi",
+  "Alwar",
+  "Meerut",
+  "Other",
+];
